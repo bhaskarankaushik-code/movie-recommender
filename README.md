@@ -17,6 +17,6 @@ A Python-based CLI app that recommends movies using the TMDB 5000 dataset.
 pip install pandas
 python3 recommender.py
 ```
-
 ## Dataset
-TMDB 5000 Movies Dataset from Kaggle
+Download from Kaggle: [TMDB 5000 Movies](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+Place `tmdb_5000_movies.csv` in the root folder before running.
